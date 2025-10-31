@@ -1,6 +1,6 @@
 <div align="center">
 
-![Certificado Cisco - Gestión de Amenazas Cibernéticas](certificado_cyber_threat_management_2025.pdf.pdf)
+![Certificado Cisco - Gestión de Amenazas Cibernéticas](certificado_cyber_threat_management_2025.pdf)
 
 <br>
 
